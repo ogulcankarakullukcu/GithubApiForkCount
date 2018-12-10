@@ -1,0 +1,51 @@
+[
+repo:zookeeper ,user:phunt , location: Palo Alto, CA , company: Cloudera Inc., contributions: 408
+repo:zookeeper ,user:breed , location: null , company: null, contributions: 145
+repo:zookeeper ,user:fpj , location: Barcelona , company: null, contributions: 90
+repo:zookeeper ,user:skamille , location: New York City , company: null, contributions: 67
+repo:zookeeper ,user:rgs1 , location: San Francisco , company: null, contributions: 63
+repo:zookeeper ,user:rakeshadr , location: Bangalore , company: Intel, contributions: 48
+repo:zookeeper ,user:henryr , location: San Francisco, CA , company: null, contributions: 27
+repo:zookeeper ,user:anmolnar , location: Budapest , company: @cloudera, contributions: 27
+repo:zookeeper ,user:afine , location: Palo Alto, CA , company: null, contributions: 22
+repo:zookeeper ,user:hanm , location: San Francisco Bay Area , company: Twitter, contributions: 20, 
+repo:camel ,user:davsclaus , location: Denmark , company: Red Hat, contributions: 14003
+repo:camel ,user:oscerd , location: Rome, Italy , company: Red Hat, contributions: 4535
+repo:camel ,user:WillemJiang , location: Beijing, China , company: null, contributions: 4137
+repo:camel ,user:jstrachan , location: Mells, UK , company: CloudBees, contributions: 1385
+repo:camel ,user:bvahdat , location: Zurich , company: Cyberlogic Consulting GmbH, contributions: 790
+repo:camel ,user:hzbarcea , location: MD, USA , company: @apifocal , contributions: 757
+repo:camel ,user:janstey , location: Paradise, NL, Canada , company: Red Hat, contributions: 572
+repo:camel ,user:lburgazzoli , location: Piacenza, Italy , company: Red Hat, contributions: 556
+repo:camel ,user:dkulp , location: Framingham, MA , company: null, contributions: 285
+repo:camel ,user:nicolaferraro , location: Rome , company: Red Hat, contributions: 273, 
+repo:httpd ,user:wrowe , location: null , company: null, contributions: 2475
+repo:httpd ,user:trawick , location: Raleigh, NC , company: Emptyhammock, contributions: 2254
+repo:httpd ,user:rbowen , location: Lexington, KY , company: Red Hat, contributions: 1417
+repo:httpd ,user:jimjag , location: Sol 3 , company: null, contributions: 1393
+repo:httpd ,user:covener , location: null , company: null, contributions: 981
+repo:httpd ,user:notroj , location: Cambridge, UK , company: Red Hat, Inc., contributions: 869
+repo:httpd ,user:minfrin , location: null , company: null, contributions: 813
+repo:httpd ,user:ylavic , location: null , company: null, contributions: 786
+repo:httpd ,user:Humbedooh , location: Copenhagen, Denmark , company: null, contributions: 705
+repo:httpd ,user:dougm , location: San Francisco, CA , company: VMware, contributions: 379, 
+repo:ofbiz ,user:JacquesLeRoux , location: Poussan Hérault France , company: http://www.les7arts.com/, contributions: 5571
+repo:ofbiz ,user:jacopoc , location: null , company: HotWax Systems, contributions: 2748
+repo:ofbiz ,user:hansbak , location: Chiang mai, Thailand , company: AntWebsystems Co.,Ltd, contributions: 2385
+repo:ofbiz ,user:eigood , location: null , company: Brainfood, contributions: 1804
+repo:ofbiz ,user:adrian-crum , location: Loma Linda, CA , company: Sandglass Software, contributions: 1632
+repo:ofbiz ,user:jonesde , location: Spokane, WA , company: David E. Jones Consulting, contributions: 1319
+repo:ofbiz ,user:lektran , location: null , company: null, contributions: 1169
+repo:ofbiz ,user:andrewzeneski , location: New York, NY , company: Null Pointer, Inc., contributions: 686
+repo:ofbiz ,user:dixitdeepak , location: India , company: HotWax Software, contributions: 379
+repo:ofbiz ,user:bibryam , location: London , company: Red Hat, contributions: 215, 
+repo:lucenenet ,user:NightOwl888 , location: null , company: null, contributions: 3112
+repo:lucenenet ,user:synhershko , location: Israel , company: @BigDataBoutique , contributions: 356
+repo:lucenenet ,user:conniey , location: null , company: @Microsoft , contributions: 215
+repo:lucenenet ,user:laimis , location: United States , company: null, contributions: 124
+repo:lucenenet ,user:ccurrens , location: Washington , company: Microsoft, contributions: 59
+repo:lucenenet ,user:geobmx540 , location: San Francisco , company: null, contributions: 56
+repo:lucenenet ,user:guidotag , location: New Jersey , company: null, contributions: 19
+repo:lucenenet ,user:Chand2048 , location: Redmond, WA , company: Microsoft, contributions: 17
+repo:lucenenet ,user:pradn , location: New York City , company: @Google, contributions: 17
+repo:lucenenet ,user:bodewig , location: Mönchengladbach, Germany , company: @innoq , contributions: 15]
