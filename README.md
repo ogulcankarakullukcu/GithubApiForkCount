@@ -34,7 +34,7 @@ User.Class:
 -Opens the connection to reach data of users' locations and companies ( URL example: "https://api.github.com/users/ogulcankarakullukcu)
 -Picks the location&company information of user and set them.
 
-You can each line of classes, and if you get confused, please ask me your questions 
+If you get confused, please ask me your questions 
 with sending an e-mail to my address(ogulcan.karakullukcu@ozu.edu.tr).
 
 Thank you!
